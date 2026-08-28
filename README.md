@@ -1,0 +1,4 @@
+- 1.- npm run dev:backend
+- 2.- npm run dev:frontend
+- 3.- npm run test:e2e
+- 4.- npm run test:headless
